@@ -8,22 +8,17 @@
 
 <url>
   <loc>https://umineko.mom/</loc>
-  <lastmod>2024-10-21T14:39:44+00:00</lastmod>
+  <lastmod>2024-10-21T15:11:27+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://umineko.mom/index.html</loc>
-  <lastmod>2024-10-21T14:39:44+00:00</lastmod>
+  <loc>https://umineko.mom/about</loc>
+  <lastmod>2024-10-21T15:11:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://umineko.mom/about.html</loc>
-  <lastmod>2024-10-21T14:39:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://umineko.mom/contact.html</loc>
-  <lastmod>2024-10-21T14:39:44+00:00</lastmod>
+  <loc>https://umineko.mom/contact</loc>
+  <lastmod>2024-10-21T15:11:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
