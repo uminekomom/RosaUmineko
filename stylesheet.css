@@ -2,8 +2,9 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 html {
     height: 100%;
-    min-height: 100%
+    min-height: 100%;
 }
+
 nav {
 background:rgb(56, 30, 46); /* Fallback for older browsers without RGBA-support */
 background:rgba(206, 117, 0, 0.7);
@@ -47,7 +48,6 @@ body {
     background-image: linear-gradient(-20deg, #d6861d 0%, #683e68 100%);
     margin: 0;
     padding: 0;
-    background-repeat: no-repeat;
     background-attachment: fixed;
 }
 
